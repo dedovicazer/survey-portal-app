@@ -1,4 +1,4 @@
-# ReadMe
+# README
 
 This is simple survey portal app created with ReactJS. The admin user can create a new, preview created survey and check answers in results table. 
 This app provides configuration which can be used in srvy-react-client library.
